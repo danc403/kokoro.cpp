@@ -1,0 +1,12 @@
+{
+    "onnxModelPath": "models/kokoro-v1.0.onnx",
+    "styleVectorDirectory": "models",
+    "defaultVoiceName": "af_heart",
+    
+    "textToSynthesize": "The quick brown fox jumps over the lazy dog.",
+
+    "audioSampleRate": 24000, 
+    "maxContextLength": 512,
+    "defaultPlaybackRate": 1.0,
+    "defaultPlaybackPitch": 0.0
+}

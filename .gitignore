@@ -1,2 +1,9 @@
 **.onnx
 **.bin
+espeak/*
+espeak-ng/*
+onnxruntime/*
+llama.cpp/*
+deps/espeak-ng/*
+deps/onnxruntime/*
+deps/llama.cpp/*
